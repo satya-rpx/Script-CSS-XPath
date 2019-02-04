@@ -19,24 +19,27 @@
     </HTML>
     ```
 
-  * ![](C:\Users\satyakrishnak\Downloads\doctree.png)
+    ![](https://www.w3.org/TR/CSS21/images/doctree.png)
 
 * ###  **Child**
 
-  * ![](C:\Users\satyakrishnak\Downloads\hierarchy_tags_parent (1).png)
+  ![](https://sebastian.expert/wp-content/uploads/2015/01/hierarchy_tags_parent.png)
+
   * **ul** *is a child for* **div**
     **div** *is a child for* **body**.
 
 * ### **Descendant**
 
-  * ![](C:\Users\satyakrishnak\Downloads\hierarchy_tags_Descendant.png)
+  ![](https://sebastian.expert/wp-content/uploads/2015/01/hierarchy_tags_Descendant.png)
+
   * **p** has *one descendant* – **strong**
     **div** has *4 descendants* – **ul, li, li, li**
     **h2** has no descendants.
 
 * ### **Ancestor**
 
-  * ![](C:\Users\satyakrishnak\Downloads\hierarchy_tags_Ancestor.png)
+  ![](https://sebastian.expert/wp-content/uploads/2015/01/hierarchy_tags_Ancestor.png)
+
   * **p, div and body** *are ancestors of* **strong**
     **div and body** *are ancestors of* **ul**
     **body** is an ancestor for both **strong** and **ul**
@@ -44,6 +47,7 @@
 
 * ### **Sibling**
 
-  * ![](C:\Users\satyakrishnak\Downloads\hierarchy_tags_Siblings.png)
+  ![](https://sebastian.expert/wp-content/uploads/2015/01/hierarchy_tags_Siblings.png)
+
   * **h1, p, img and h2** *are siblings* as they share the same parent **div**
     **ul** *has no sibling* as its parent **div** does not have any other child element.

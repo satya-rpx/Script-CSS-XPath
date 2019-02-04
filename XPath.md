@@ -1,8 +1,6 @@
 # XPath
 
-* 
-
-![](C:\Users\satyakrishnak\Downloads\032816_0758_XPathinSele1.png)
+![](https://www.guru99.com/images/3-2016/032816_0758_XPathinSele1.png)
 
 1. **Basic Xpath**:
    * Xpath=//input [@type=’password’]
